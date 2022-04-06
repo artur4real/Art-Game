@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\bin\Debug\batsaevGAME.exe.config
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\bin\Debug\batsaevGAME.exe
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\bin\Debug\batsaevGAME.pdb
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\Chepraga.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\Chepraga.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\batsaevGAME.Form1.resources
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\batsaevGAME.Properties.Resources.resources
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\Chepraga.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\Chepraga.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\batsaevGAME.exe
+C:\Users\HP\OneDrive\Рабочий стол\Game\GamePicture-main\batsaevGAME\obj\Debug\batsaevGAME.pdb
